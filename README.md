@@ -28,26 +28,12 @@ This will automatically install all required dependencies and start the web appl
   launch_app.bat
   ```
 
-### **Input Data**
+### **Dataset**
 
-#### **Soil Types**
-
-- **Dataset Name**: Small Image Dataset for Image Classification for Beginners
-- **Last Updated**: 3 years ago (Version 1)
-- **Dataset URL**: [Soil Type Image Classification](https://www.kaggle.com/prasanshasatpathy/soil-type-image-classification)
+- **Dataset Name**: Soil Image Dataset
+- **Last Updated**: a years ago (Version 1)
+- **Dataset URL**: [Soil Type Image Classification](<(https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset)>)
 
 #### **About this Dataset**
 
-- **Context**:  
-  The dataset consists of **5 varieties of soil images**, organized into **5 directories** or folders. It is a **small dataset** intended for beginners to quickly learn about machine learning models without requiring significant training time or expensive computation. While the results may not be perfect due to the small size (leading to potential overfitting issues), it serves as a great starting point for beginners.
-
-  This dataset is expected to be updated to a larger, more comprehensive collection in the near future.
-
-- **Content**:  
-  The dataset was created due to the lack of a reliable soil image dataset available. It consists of **4 soil varieties** in separate directories, without annotations. A larger version of the dataset with better image quality will be crowdsourced soon.
-
-- **Acknowledgements**:  
-  The initial set of this small dataset was created by the author, who anticipates future collaborations to expand the dataset. More details on how to contribute will be provided soon.
-
-- **Inspiration**:  
-  The goal was to create a **better dataset with less complexity**, enabling beginner-level learning without computational overhead.
+This dataset is the cleaned up version of the "Soil Image Dataset"(https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset), which had lots of corrupted images. The dataset contains 1555 images divided into two subsets (train and test set) of 4 classes each.
