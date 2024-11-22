@@ -71,14 +71,13 @@ This will automatically install all required dependencies and start the web appl
 
 ### **Acknowledgments**
 
-- **Dataset**: This project uses the [Soil Image Dataset](https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset) made publicly available on Kaggle by Jayaprakash Pondy.
-
-- **Inspiration**: Inspired by the need for accessible tools to assist rural communities in agriculture by utilizing AI to enhance decision-making for farmers.
-
-* **Dataset Name**: Soil Image Dataset
-* **Last Updated**: a years ago (Version 1)
-* **Dataset URL**: [Soil Type Image Classification](https://www.kaggle.com/code/arjupaudel/soil-crop-recomendation/)
+- **Dataset Name**: Soil Image Dataset
+- **Kaggle Author**: Arjun Paudel
+- **Last Updated**: a years ago (Version 1)
+- **Dataset URL**: [Soil Type Image Classification](https://www.kaggle.com/code/arjupaudel/soil-crop-recomendation/)
 
 #### **About this Dataset**
 
-This dataset is the cleaned up version of the [Soil Image Dataset](https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset), which had lots of corrupted images. The dataset contains 1555 images divided into two subsets (train and test set) of 4 classes each.
+This dataset is the cleaned up version of the [Soil Image Dataset](https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset) (made publicly available on Kaggle by Jayaprakash Pondy), which had lots of corrupted images. The dataset contains 1555 images divided into two subsets (train and test set) of 4 classes each.
+
+- **Inspiration**: Inspired by the need for accessible tools to assist rural communities in agriculture by utilizing AI to enhance decision-making for farmers.
