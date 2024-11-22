@@ -6,7 +6,7 @@
 ### **To Launch the Web App**
 
 #### **Linux/Mac Users**:
-     ```
+
 1. **Make the Script Executable**:
    - Run the following command to give executable permissions to the script:
      ```sh
