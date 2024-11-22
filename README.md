@@ -6,20 +6,14 @@
 ### **To Launch the Web App**
 
 #### **Linux/Mac Users**:
-
-1. **Rename the Script (If Necessary)**:
-   - If the script file is incorrectly named as `lauch_app.sh`, rename it to `launch_app.sh` by running:
-     ```sh
-     mv lauch_app.sh launch_app.sh
      ```
-
-2. **Make the Script Executable**:
+1. **Make the Script Executable**:
    - Run the following command to give executable permissions to the script:
      ```sh
      chmod +x launch_app.sh
      ```
 
-3. **Run the Script**:
+2. **Run the Script**:
    - To install dependencies and launch the web application, execute the script:
      ```sh
      ./launch_app.sh
