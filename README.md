@@ -1,4 +1,4 @@
-# LIS4042 - ARTIFICIAL VISION - FINAL PROJECT
+# LIS4042 - ARTIFICIAL VISION
 
 **Author**: Marie-Jade Marcil
 <br>
@@ -9,11 +9,16 @@
 **Date**: November 26, 2024
 <br>
 
-## RURAL COMMUNITIES: SOIL CLASSIFICATION FOR CROP RECOMMENDATIONS
+**Submited to**: Dr.Zobeida Jezabel Guzman Zavaleta
+<br>
+
+## MyCrop Application - Soil Classification for Crop Recommendations
 
 ### **Context**
 
 This application and repertory was created to offer an web application to the agricultural rural communities. This application aims to help farmer reduce their resources to determine what soil type their dealing with and what crops they should grow.
+
+**Inspiration**: Inspired by the need for accessible tools to assist rural communities in agriculture by utilizing AI to enhance decision-making for farmers.
 
 ### **Model**
 
@@ -80,6 +85,6 @@ This will automatically install all required dependencies and start the web appl
 
 #### **About this Dataset**
 
-This dataset is the cleaned up version of the [Soil Image Dataset](https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset) (made publicly available on Kaggle by Jayaprakash Pondy), which had lots of corrupted images. The dataset contains 1555 images divided into two subsets (train and test set) of 4 classes each.
+- This dataset is the cleaned up version of the [Soil Image Dataset](https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset) (made publicly available on Kaggle by Jayaprakash Pondy), which had lots of corrupted images. 
 
-- **Inspiration**: Inspired by the need for accessible tools to assist rural communities in agriculture by utilizing AI to enhance decision-making for farmers.
+- The dataset contains 1555 images divided into two subsets (train and test set) of 4 classes each.
