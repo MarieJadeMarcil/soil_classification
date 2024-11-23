@@ -1,9 +1,11 @@
-# ARTIFICIAL VISION - FINAL PROJECT
+# LIS4042 - ARTIFICIAL VISION - FINAL PROJECT
 
 **Author**: Marie-Jade Marcil
 <br>
+
 **Student ID**: 186239
 <br>
+
 **Date**: November 26, 2024
 <br>
 
@@ -11,11 +13,11 @@
 
 ### **Context**
 
-This application and repertory was created to offer an web application to the agricultural rural communities. This application aims to help farmer reduce their resources to determine what soil type their dealing with and what crops they should prioratiize.
+This application and repertory was created to offer an web application to the agricultural rural communities. This application aims to help farmer reduce their resources to determine what soil type their dealing with and what crops they should grow.
 
 ### **Model**
 
-The Densely Connected Model DenseNet-121 was trained with the [Soil Type Dataset](https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset) and successfully predicted soil types and crop recommendations.
+The Densely Connected Model DenseNet-121 was trained with the [Soil Type Dataset](https://www.kaggle.com/code/arjupaudel/soil-crop-recomendation/) and successfully predicted soil types and crop recommendations.
 
 ### **Installation**
 
@@ -53,7 +55,7 @@ This will automatically install all required dependencies and start the web appl
   launch_app.bat
   ```
 
-### **How it works **
+### **How it works**
 
 1. **Upload a Soil Image**: The user uploads an image of the soil sample using the web interface.
 
