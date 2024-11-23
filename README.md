@@ -1,4 +1,4 @@
-# LIS4042 - ARTIFICIAL VISION - MyCrop Application
+# LIS4042 - ARTIFICIAL VISION
 
 **Author**: Marie-Jade Marcil
 <br>
@@ -12,7 +12,7 @@
 **Submited to**: Dr.Zobeida Jezabel Guzman Zavaleta
 <br>
 
-## RURAL COMMUNITIES: SOIL CLASSIFICATION FOR CROP RECOMMENDATIONS
+## MyCrop Application - Soil Classification for Crop Recommendations
 
 ### **Context**
 
