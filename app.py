@@ -46,9 +46,6 @@ def preprocessing_pipeline(input_image):
     """
     target_size = (224, 224)
 
-    # Enhance Contrast
-    #input_image = equalize_this(image_file=input_image, with_plot=False)
-
     # Convert input to a NumPy array if it's a PIL image
     if isinstance(input_image, Image.Image):
         image = np.array(input_image)
